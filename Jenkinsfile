@@ -6,7 +6,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Feature payment Build'
+                echo 'Feature Login Build'
             }
         }
 
