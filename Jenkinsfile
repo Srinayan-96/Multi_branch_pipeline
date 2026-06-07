@@ -5,13 +5,9 @@ pipeline {
     stages {
 
         stage('Build') {
-
             steps {
-
-                echo 'Building'
-
+                echo 'Feature Login Build'
             }
-
         }
 
     }
